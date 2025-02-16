@@ -8,7 +8,7 @@ from sklearn.metrics import mean_absolute_error
 
 st.header(" :blue[Estimated Time Arrival Predictor] :car:")  
 st.subheader("This tool helps to predict the estimated time arrival based on the weather,hour,traffic and week conditions from the starting point to the destination based upon longitude and latitude")
-df = pd.read_csv(r"C:\Users\chand\OneDrive\Desktop\Hugging_Faces_Projects\hyderabad_eta_data.csv")
+df = pd.read_csv("hyderabad_eta_data.csv")
 
 # Sliders in the middle of the page
 start_lat = st.slider(
