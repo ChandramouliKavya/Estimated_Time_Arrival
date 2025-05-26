@@ -25,12 +25,12 @@ The model uses key features such as:
 ✅ ETA (in minutes)
 
 
-🌐 🔗 Check Deployment Here
+### 🌐 🔗 Check Deployment Here
 https://huggingface.co/spaces/kavyasri0821/Estimated_time_travel
 
 
 
-📊 Example Use Cases
+### 📊 Example Use Cases
 Predicting food delivery ETA for customers
 
 Estimating ride-hailing arrival times (Uber, Lyft, etc.)
